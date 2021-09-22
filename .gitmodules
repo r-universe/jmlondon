@@ -8,3 +8,9 @@
 	url = https://github.com/jmlondon/pathroutr
 	shallow = true
 	registered = true
+[submodule "crawl"]
+	path = crawl
+	url = https://github.com/NMML/crawl
+	shallow = true
+	branch = devel
+	registered = false
