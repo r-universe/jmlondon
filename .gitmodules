@@ -3,11 +3,6 @@
 	url = https://github.com/jmlondon/universe
 	shallow = true
 	branch = HEAD
-[submodule "pathroutr"]
-	path = pathroutr
-	url = https://github.com/jmlondon/pathroutr
-	shallow = true
-	registered = true
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
