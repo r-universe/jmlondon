@@ -2,11 +2,11 @@
 	path = .registry
 	url = https://github.com/jmlondon/universe
 	branch = HEAD
-[submodule "pathroutr"]
-	path = pathroutr
-	url = https://github.com/jmlondon/pathroutr
 [submodule "crawl"]
 	path = crawl
 	url = https://github.com/NMML/crawl
 	branch = devel
 	registered = false
+[submodule "pathroutr"]
+	path = pathroutr
+	url = https://github.com/jmlondon/pathroutr
