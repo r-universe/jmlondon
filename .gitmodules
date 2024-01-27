@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/jmlondon/universe
+	url = https://github.com/jmlondon/jmlondon.r-universe.dev
 	branch = HEAD
 [submodule "crawl"]
 	path = crawl
