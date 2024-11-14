@@ -1,10 +1,9 @@
 {
   "id": 19671735,
   "created_at": "2021-09-22T18:12:10.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["pathroutr"]
+  }
 }
