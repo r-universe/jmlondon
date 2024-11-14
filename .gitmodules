@@ -10,3 +10,6 @@
 [submodule "pathroutr"]
 	path = pathroutr
 	url = https://github.com/jmlondon/pathroutr
+[submodule "wcUtils"]
+	path = wcUtils
+	url = https://github.com/noaa-afsc/wcUtils
