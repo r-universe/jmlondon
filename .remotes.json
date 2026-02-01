@@ -1,9 +1,0 @@
-[
-  {
-    "package": "crawl",
-    "url": "https://github.com/NMML/crawl",
-    "via": ["pathroutr"],
-    "branch": "devel",
-    "from": "pathroutr"
-  }
-]
